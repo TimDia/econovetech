@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12204
+ID: 8984227525baadbe
+Rarity: uncommon
+Power: 4
+Generated: 2025-10-16T16:18:14.524Z

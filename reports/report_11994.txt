@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11994
+ID: 0659ac49fe1a2ac0
+Rarity: common
+Power: 7
+Generated: 2025-10-16T16:18:14.332Z

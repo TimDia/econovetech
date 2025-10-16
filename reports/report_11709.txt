@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11709
+ID: fef12e0571212127
+Rarity: common
+Power: 67
+Generated: 2025-10-16T16:18:14.077Z

@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11910
+ID: 6b5da74236d85457
+Rarity: epic
+Power: 80
+Generated: 2025-10-16T16:18:14.259Z

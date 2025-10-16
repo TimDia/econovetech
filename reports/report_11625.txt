@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11625
+ID: baca7ea3a59dcf14
+Rarity: common
+Power: 15
+Generated: 2025-10-16T16:18:13.996Z

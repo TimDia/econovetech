@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11631
+ID: c374d01c0b886891
+Rarity: legendary
+Power: 3
+Generated: 2025-10-16T16:18:14.002Z

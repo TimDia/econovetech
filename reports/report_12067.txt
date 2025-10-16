@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12067
+ID: 06b7fe372838d79f
+Rarity: epic
+Power: 5
+Generated: 2025-10-16T16:18:14.403Z

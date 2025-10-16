@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11362
+ID: 9cbb3f9c808bc484
+Rarity: legendary
+Power: 72
+Generated: 2025-10-16T16:18:13.741Z

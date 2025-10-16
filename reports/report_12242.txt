@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12242
+ID: c00d50b5ca223da1
+Rarity: common
+Power: 6
+Generated: 2025-10-16T16:18:14.555Z

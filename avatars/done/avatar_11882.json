@@ -1,0 +1,13 @@
+{
+  "id": 11882,
+  "mission": "Generate digital asset and report",
+  "status": "completed",
+  "createdAt": "2025-10-16 16:24:37Z",
+  "meta": {
+    "skills": [
+      "design",
+      "text"
+    ]
+  },
+  "asset": "asset_11882.json"
+}

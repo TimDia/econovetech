@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11470
+ID: bcfb28f254501228
+Rarity: legendary
+Power: 17
+Generated: 2025-10-16T16:18:13.838Z

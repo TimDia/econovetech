@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11989
+ID: 466d0e0fbe8ce194
+Rarity: legendary
+Power: 75
+Generated: 2025-10-16T16:18:14.327Z

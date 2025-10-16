@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11396
+ID: e14e4d175e22c7a0
+Rarity: uncommon
+Power: 9
+Generated: 2025-10-16T16:18:13.771Z

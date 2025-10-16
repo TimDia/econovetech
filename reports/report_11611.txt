@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11611
+ID: fcaa15fc4c7cd86c
+Rarity: common
+Power: 0
+Generated: 2025-10-16T16:18:13.981Z

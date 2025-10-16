@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12013
+ID: b9ec29b39a643aef
+Rarity: uncommon
+Power: 83
+Generated: 2025-10-16T16:18:14.352Z

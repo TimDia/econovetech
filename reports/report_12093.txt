@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12093
+ID: 64b3ea78d745bd79
+Rarity: uncommon
+Power: 25
+Generated: 2025-10-16T16:18:14.426Z

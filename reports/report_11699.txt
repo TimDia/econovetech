@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11699
+ID: 8f7318d09a9df961
+Rarity: uncommon
+Power: 4
+Generated: 2025-10-16T16:18:14.068Z

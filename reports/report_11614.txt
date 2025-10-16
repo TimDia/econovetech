@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11614
+ID: 03ccd3904cfed058
+Rarity: rare
+Power: 17
+Generated: 2025-10-16T16:18:13.986Z

@@ -1,0 +1,5 @@
+Asset: UEOS Asset #1199
+ID: cd04265f7b571ab1
+Rarity: epic
+Power: 2
+Generated: 2025-10-16T16:18:14.328Z

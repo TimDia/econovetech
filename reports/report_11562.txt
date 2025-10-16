@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11562
+ID: d0c20b1bac2700cf
+Rarity: common
+Power: 24
+Generated: 2025-10-16T16:18:13.934Z

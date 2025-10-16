@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11984
+ID: c4c5efde6d96d8d2
+Rarity: rare
+Power: 42
+Generated: 2025-10-16T16:18:14.324Z

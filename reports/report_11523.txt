@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11523
+ID: 6f14e7928f8e0838
+Rarity: rare
+Power: 34
+Generated: 2025-10-16T16:18:13.885Z

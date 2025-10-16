@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11537
+ID: bed6b6242388fc4a
+Rarity: uncommon
+Power: 57
+Generated: 2025-10-16T16:18:13.909Z

@@ -1,0 +1,5 @@
+Asset: UEOS Asset #1179
+ID: 563bdb520ad9fc13
+Rarity: common
+Power: 50
+Generated: 2025-10-16T16:18:14.146Z

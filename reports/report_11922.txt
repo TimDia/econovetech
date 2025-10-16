@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11922
+ID: f1a436860a6b40e8
+Rarity: common
+Power: 75
+Generated: 2025-10-16T16:18:14.269Z

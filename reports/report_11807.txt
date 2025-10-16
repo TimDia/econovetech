@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11807
+ID: a6e109d763f38665
+Rarity: uncommon
+Power: 38
+Generated: 2025-10-16T16:18:14.162Z

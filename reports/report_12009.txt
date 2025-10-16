@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12009
+ID: 95f2598c758e5d42
+Rarity: uncommon
+Power: 30
+Generated: 2025-10-16T16:18:14.347Z

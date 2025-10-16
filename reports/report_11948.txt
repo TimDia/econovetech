@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11948
+ID: 2b5f90b48b8094e5
+Rarity: epic
+Power: 31
+Generated: 2025-10-16T16:18:14.291Z

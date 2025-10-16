@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11752
+ID: be45d51cb2352bf1
+Rarity: epic
+Power: 51
+Generated: 2025-10-16T16:18:14.114Z

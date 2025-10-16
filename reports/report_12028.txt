@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12028
+ID: 2cf4a7b95ce938a3
+Rarity: epic
+Power: 21
+Generated: 2025-10-16T16:18:14.365Z

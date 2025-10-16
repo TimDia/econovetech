@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11403
+ID: dc85c8d82427fed4
+Rarity: legendary
+Power: 37
+Generated: 2025-10-16T16:18:13.779Z

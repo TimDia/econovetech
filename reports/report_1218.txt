@@ -1,0 +1,5 @@
+Asset: UEOS Asset #1218
+ID: aef123b3b8d8db4d
+Rarity: epic
+Power: 5
+Generated: 2025-10-16T16:18:14.503Z

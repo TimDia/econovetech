@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11412
+ID: df29535021a034eb
+Rarity: rare
+Power: 2
+Generated: 2025-10-16T16:18:13.787Z

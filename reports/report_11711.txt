@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11711
+ID: 5ebfc36653cb67de
+Rarity: common
+Power: 84
+Generated: 2025-10-16T16:18:14.079Z

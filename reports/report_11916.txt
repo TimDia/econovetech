@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11916
+ID: db755f49e0f15021
+Rarity: rare
+Power: 48
+Generated: 2025-10-16T16:18:14.264Z

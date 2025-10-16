@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11376
+ID: ba76cd6632184136
+Rarity: uncommon
+Power: 92
+Generated: 2025-10-16T16:18:13.753Z

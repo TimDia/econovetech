@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11414
+ID: 30db89d35e4f2bd7
+Rarity: common
+Power: 38
+Generated: 2025-10-16T16:18:13.789Z

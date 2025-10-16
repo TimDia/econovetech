@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12068
+ID: 3aa98d10f0c9dcb2
+Rarity: common
+Power: 43
+Generated: 2025-10-16T16:18:14.404Z

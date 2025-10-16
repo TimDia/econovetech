@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12105
+ID: dad2932f7ef2754f
+Rarity: rare
+Power: 87
+Generated: 2025-10-16T16:18:14.437Z

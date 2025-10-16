@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12136
+ID: 83c0d1ab8fe47383
+Rarity: common
+Power: 21
+Generated: 2025-10-16T16:18:14.465Z

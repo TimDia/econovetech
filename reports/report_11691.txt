@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11691
+ID: f635e3cab5d64bee
+Rarity: common
+Power: 84
+Generated: 2025-10-16T16:18:14.061Z

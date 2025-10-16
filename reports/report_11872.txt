@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11872
+ID: c9f177fe172ee6c5
+Rarity: legendary
+Power: 78
+Generated: 2025-10-16T16:18:14.224Z

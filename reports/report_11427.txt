@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11427
+ID: ddc440200253175b
+Rarity: common
+Power: 63
+Generated: 2025-10-16T16:18:13.800Z

@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11804
+ID: cfd0057506b6b6d2
+Rarity: uncommon
+Power: 69
+Generated: 2025-10-16T16:18:14.160Z

@@ -1,9 +1,6 @@
-﻿{
-    "id":  26,
-    "mission":  "Generate digital asset and report",
+{
     "status":  "pending",
-    "createdAt":  "2025-10-16 16:24:20Z",
-    "meta":  {
-                 "skills":  "design"
-             }
+    "timestamp":  "2025-10-16 16:13:00Z",
+    "id":  26,
+    "mission":  "Generate digital asset and report"
 }

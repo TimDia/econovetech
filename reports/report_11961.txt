@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11961
+ID: 2a2a6e1951bc6527
+Rarity: legendary
+Power: 30
+Generated: 2025-10-16T16:18:14.303Z

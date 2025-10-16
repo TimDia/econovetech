@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11627
+ID: 7049a7a67270b4f5
+Rarity: common
+Power: 43
+Generated: 2025-10-16T16:18:13.998Z

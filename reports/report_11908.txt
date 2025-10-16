@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11908
+ID: 622fdab4861c7d89
+Rarity: common
+Power: 27
+Generated: 2025-10-16T16:18:14.257Z

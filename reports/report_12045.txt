@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12045
+ID: cb035a33e092f170
+Rarity: uncommon
+Power: 51
+Generated: 2025-10-16T16:18:14.379Z

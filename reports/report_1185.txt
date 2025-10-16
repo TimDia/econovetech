@@ -1,0 +1,5 @@
+Asset: UEOS Asset #1185
+ID: 810b6113cd15a468
+Rarity: legendary
+Power: 7
+Generated: 2025-10-16T16:18:14.204Z

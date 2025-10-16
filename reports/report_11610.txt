@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11610
+ID: 530e7db38e560eec
+Rarity: legendary
+Power: 66
+Generated: 2025-10-16T16:18:13.980Z

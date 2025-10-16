@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11672
+ID: 7d2124a615a90f3b
+Rarity: rare
+Power: 86
+Generated: 2025-10-16T16:18:14.044Z

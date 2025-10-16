@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11671
+ID: 128b40009475f7f3
+Rarity: rare
+Power: 27
+Generated: 2025-10-16T16:18:14.043Z

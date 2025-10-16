@@ -1,0 +1,5 @@
+Asset: UEOS Asset #122
+ID: bfbd50067ecc8742
+Rarity: common
+Power: 96
+Generated: 2025-10-16T16:18:14.519Z

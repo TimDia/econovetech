@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11568
+ID: 64694847ae76faa6
+Rarity: rare
+Power: 29
+Generated: 2025-10-16T16:18:13.939Z

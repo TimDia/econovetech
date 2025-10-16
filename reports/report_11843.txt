@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11843
+ID: 6c448f90f60fef71
+Rarity: epic
+Power: 60
+Generated: 2025-10-16T16:18:14.197Z

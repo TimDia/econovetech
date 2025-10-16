@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12004
+ID: 7187bc08e4b8d5a3
+Rarity: epic
+Power: 37
+Generated: 2025-10-16T16:18:14.343Z

@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12208
+ID: f0714a33245702af
+Rarity: legendary
+Power: 11
+Generated: 2025-10-16T16:18:14.527Z

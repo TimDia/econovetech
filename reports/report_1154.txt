@@ -1,0 +1,5 @@
+Asset: UEOS Asset #1154
+ID: 02ddc15f12bdf4ce
+Rarity: uncommon
+Power: 26
+Generated: 2025-10-16T16:18:13.912Z

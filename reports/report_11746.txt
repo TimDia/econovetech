@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11746
+ID: 65b8069779324945
+Rarity: legendary
+Power: 41
+Generated: 2025-10-16T16:18:14.109Z

@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12180
+ID: c71d7234444087cc
+Rarity: legendary
+Power: 3
+Generated: 2025-10-16T16:18:14.504Z

@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12096
+ID: 87cafa80b8cc0200
+Rarity: epic
+Power: 22
+Generated: 2025-10-16T16:18:14.428Z

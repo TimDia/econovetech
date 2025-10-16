@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12097
+ID: 5f1b0a5b223a886d
+Rarity: common
+Power: 81
+Generated: 2025-10-16T16:18:14.429Z

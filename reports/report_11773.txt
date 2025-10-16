@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11773
+ID: ec6fdfc1aac931d1
+Rarity: uncommon
+Power: 86
+Generated: 2025-10-16T16:18:14.132Z

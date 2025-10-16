@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11530
+ID: 1dda12dff63fe9a2
+Rarity: rare
+Power: 69
+Generated: 2025-10-16T16:18:13.903Z

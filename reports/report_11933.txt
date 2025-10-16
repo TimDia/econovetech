@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11933
+ID: 497dd8c25063109a
+Rarity: uncommon
+Power: 49
+Generated: 2025-10-16T16:18:14.278Z

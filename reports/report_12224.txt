@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12224
+ID: bec486f8030a7c8f
+Rarity: legendary
+Power: 96
+Generated: 2025-10-16T16:18:14.540Z

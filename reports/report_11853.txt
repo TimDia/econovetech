@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11853
+ID: 7bd0375fee6d24eb
+Rarity: common
+Power: 3
+Generated: 2025-10-16T16:18:14.207Z

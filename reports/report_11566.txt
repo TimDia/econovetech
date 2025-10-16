@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11566
+ID: fbdfaacfac30004e
+Rarity: uncommon
+Power: 11
+Generated: 2025-10-16T16:18:13.938Z

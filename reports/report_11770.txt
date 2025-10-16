@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11770
+ID: 7a2f7eefc484c6cb
+Rarity: uncommon
+Power: 57
+Generated: 2025-10-16T16:18:14.130Z

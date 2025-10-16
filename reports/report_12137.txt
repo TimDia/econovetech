@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12137
+ID: ddc525e6f633d809
+Rarity: rare
+Power: 24
+Generated: 2025-10-16T16:18:14.466Z

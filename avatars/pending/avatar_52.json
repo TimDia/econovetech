@@ -1,12 +1,6 @@
-﻿{
-    "id":  52,
-    "mission":  "Generate digital asset and report",
+{
     "status":  "pending",
-    "createdAt":  "2025-10-16 16:24:20Z",
-    "meta":  {
-                 "skills":  [
-                                "code",
-                                "text"
-                            ]
-             }
+    "timestamp":  "2025-10-16 16:13:00Z",
+    "id":  52,
+    "mission":  "Generate digital asset and report"
 }

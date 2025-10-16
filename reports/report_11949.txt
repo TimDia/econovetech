@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11949
+ID: 037ca836dc23a020
+Rarity: common
+Power: 79
+Generated: 2025-10-16T16:18:14.291Z

@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12063
+ID: d1923aecc99b15bf
+Rarity: common
+Power: 43
+Generated: 2025-10-16T16:18:14.399Z

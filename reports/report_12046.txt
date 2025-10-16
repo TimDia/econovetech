@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12046
+ID: 8070e9fe0491bfe6
+Rarity: uncommon
+Power: 6
+Generated: 2025-10-16T16:18:14.380Z

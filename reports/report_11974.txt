@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11974
+ID: 3e4eb23caa014efb
+Rarity: legendary
+Power: 51
+Generated: 2025-10-16T16:18:14.315Z

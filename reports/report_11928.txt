@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11928
+ID: 3c5fd5a9315c80bd
+Rarity: legendary
+Power: 36
+Generated: 2025-10-16T16:18:14.274Z

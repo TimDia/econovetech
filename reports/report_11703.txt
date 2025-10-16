@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11703
+ID: e65327c741455fac
+Rarity: common
+Power: 47
+Generated: 2025-10-16T16:18:14.072Z

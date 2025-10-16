@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12017
+ID: 87d7b4e0126c6be2
+Rarity: legendary
+Power: 54
+Generated: 2025-10-16T16:18:14.355Z

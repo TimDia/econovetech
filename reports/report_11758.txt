@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11758
+ID: 59e33c84bdf3dd60
+Rarity: epic
+Power: 4
+Generated: 2025-10-16T16:18:14.119Z

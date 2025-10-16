@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11419
+ID: 5c1e98ce38db5510
+Rarity: common
+Power: 39
+Generated: 2025-10-16T16:18:13.793Z

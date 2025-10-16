@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11903
+ID: 1cf911130db9ae5a
+Rarity: uncommon
+Power: 47
+Generated: 2025-10-16T16:18:14.253Z

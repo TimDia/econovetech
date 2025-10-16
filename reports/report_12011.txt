@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12011
+ID: 9e1a4d9281921221
+Rarity: rare
+Power: 52
+Generated: 2025-10-16T16:18:14.349Z

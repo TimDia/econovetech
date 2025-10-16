@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12202
+ID: eec9077657dc4d0c
+Rarity: rare
+Power: 38
+Generated: 2025-10-16T16:18:14.522Z

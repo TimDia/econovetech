@@ -1,0 +1,5 @@
+Asset: UEOS Asset #12219
+ID: 52528718ee88da68
+Rarity: legendary
+Power: 18
+Generated: 2025-10-16T16:18:14.536Z

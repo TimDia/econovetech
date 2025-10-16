@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11970
+ID: d63ddec7ebda3c5c
+Rarity: uncommon
+Power: 60
+Generated: 2025-10-16T16:18:14.312Z

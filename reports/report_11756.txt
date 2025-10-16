@@ -1,0 +1,5 @@
+Asset: UEOS Asset #11756
+ID: cc5bc307c6197bcf
+Rarity: epic
+Power: 76
+Generated: 2025-10-16T16:18:14.117Z

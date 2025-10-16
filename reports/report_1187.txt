@@ -1,0 +1,5 @@
+Asset: UEOS Asset #1187
+ID: 8d1860afcf8c597f
+Rarity: common
+Power: 17
+Generated: 2025-10-16T16:18:14.222Z
