@@ -1,10 +1,11 @@
-/** @type {import("next").NextConfig} */
-const nextConfig = {
-  output: "export",
+﻿/// <reference types="node" />
+/** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production';
+
+export default {
+  output: 'export',
   images: { unoptimized: true },
-  // IMPORTANT: project pages live under /econovetech on GitHub Pages
-  basePath: "/econovetech",
-  assetPrefix: "/econovetech/",
-  trailingSlash: true,
+  basePath: isProd ? '/econovetech' : '',
+  assetPrefix: isProd ? '/econovetech/' : '',
+  trailingSlash: true
 };
-export default nextConfig;
