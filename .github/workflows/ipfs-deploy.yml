@@ -8,8 +8,6 @@ on:
 jobs:
   ipfs:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -17,7 +15,7 @@ jobs:
       - name: Use Node 20
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: '20'
 
       - name: Install deps
         run: npm ci
@@ -25,11 +23,8 @@ jobs:
       - name: Build (Next.js export)
         run: npm run build
 
-      - name: Install helpers (jq) and web3.storage CLI
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
-          npm i -g @web3-storage/w3cli
+      - name: Install web3.storage CLI
+        run: npm i -g @web3-storage/w3cli
 
       - name: Upload static site (out/) to IPFS
         env:
@@ -39,7 +34,6 @@ jobs:
             echo "No ./out folder was produced by build. Failing."
             exit 1
           fi
-          echo "Uploading ./out to IPFS via web3.storage..."
           CID_SITE=$(w3 put out --json --token "$WEB3_STORAGE_TOKEN" | jq -r '.cid // .cid["/"] // .[0].cid')
           echo "SITE_CID=$CID_SITE" >> $GITHUB_ENV
           echo "Site CID: $CID_SITE"
@@ -49,7 +43,6 @@ jobs:
           WEB3_STORAGE_TOKEN: ${{ secrets.WEB3_STORAGE_TOKEN }}
         run: |
           mkdir -p marketplace || true
-          echo "Uploading ./marketplace to IPFS..."
           CID_MARKET=$(w3 put marketplace --json --token "$WEB3_STORAGE_TOKEN" | jq -r '.cid // .cid["/"] // .[0].cid')
           echo "MARKET_CID=$CID_MARKET" >> $GITHUB_ENV
           echo "Marketplace CID: $CID_MARKET"
@@ -57,6 +50,5 @@ jobs:
       - name: Summary
         run: |
           echo "## ✅ IPFS Upload Complete" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "- Site CID: ${SITE_CID}" >> $GITHUB_STEP_SUMMARY
-          echo "- Marketplace CID: ${MARKET_CID}" >> $GITHUB_STEP_SUMMARY
+          echo "- Site CID: ${{ env.SITE_CID }}" >> $GITHUB_STEP_SUMMARY
+          echo "- Marketplace CID: ${{ env.MARKET_CID }}" >> $GITHUB_STEP_SUMMARY
