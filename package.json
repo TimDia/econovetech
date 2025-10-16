@@ -1,0 +1,33 @@
+{
+    "name":  "econovetech-web",
+    "private":  true,
+    "version":  "0.1.0",
+    "scripts":  {
+                    "dev":  "next dev -p 3000",
+                    "build":  "next build",
+                    "start":  "next start",
+                    "lint":  "next lint",
+                    "export":  "next build \u0026\u0026 next export",
+                    "deploy":  "npm run export \u0026\u0026 gh-pages -d out"
+                },
+    "dependencies":  {
+                         "@react-three/drei":  "^9.121.4",
+                         "@react-three/fiber":  "^8.17.10",
+                         "@walletconnect/ethereum-provider":  "^2.14.2",
+                         "ethers":  "^6.13.2",
+                         "framer-motion":  "^11.0.0",
+                         "react":  "18.3.1",
+                         "react-dom":  "18.3.1",
+                         "three":  "^0.169.0"
+                     },
+    "devDependencies":  {
+                            "autoprefixer":  "^10.4.20",
+                            "eslint":  "^8.57.0",
+                            "eslint-config-next":  "14.2.15",
+                            "gh-pages":  "^6.3.0",
+                            "next":  "^14.2.15",
+                            "postcss":  "^8.4.47",
+                            "tailwindcss":  "^3.4.13",
+                            "typescript":  "^5.6.3"
+                        }
+}
