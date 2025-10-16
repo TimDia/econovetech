@@ -1,0 +1,12 @@
+﻿{
+    "id":  18100,
+    "mission":  "Generate digital asset and report",
+    "status":  "pending",
+    "createdAt":  "2025-10-16 16:24:46Z",
+    "meta":  {
+                 "skills":  [
+                                "code",
+                                "text"
+                            ]
+             }
+}
